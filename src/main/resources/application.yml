@@ -1,6 +1,6 @@
 app:
   datasource:
     jdbc-url: jdbc:postgresql://localhost:5432/spring-fcc-demo
-    username: postgres
-    password: narrate
+    username: YOUR_USERNAME
+    password: YOUR_PASSWORD
     pool-size: 30
